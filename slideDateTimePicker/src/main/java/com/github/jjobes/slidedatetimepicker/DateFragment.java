@@ -1,16 +1,16 @@
 package com.github.jjobes.slidedatetimepicker;
 
-import java.util.Date;
-
 import android.content.Context;
 import android.os.Bundle;
-import android.support.v4.app.Fragment;
 import android.view.ContextThemeWrapper;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.DatePicker;
 import android.widget.DatePicker.OnDateChangedListener;
+
+import android.app.Fragment;
+import java.util.Date;
 
 /**
  * The fragment for the first page in the ViewPager that holds
